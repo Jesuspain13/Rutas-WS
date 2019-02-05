@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/java/esp/apprutas/model/Guia.java</file>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/java/esp/apprutas/model/svc/RutaSvc.java</file>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/java/esp/apprutas/model/dao/RutaDao.java</file>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/java/esp/apprutas/model/Rutas.java</file>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/java/esp/apprutas/model/svc/GuiaSvc.java</file>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/java/esp/apprutas/model/Ruta.java</file>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/java/esp/apprutas/model/dao/GuiaDao.java</file>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/java/esp/apprutas/model/svc/rest/RutasRest.java</file>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/java/esp/apprutas/model/dao/implem/RutaDaoImplem.java</file>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/java/esp/apprutas/model/svc/implem/GuiaSvcImplem.java</file>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/java/esp/apprutas/model/svc/implem/RutaSvcImplem.java</file>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/java/esp/apprutas/model/svc/rest/ApplicationConfig.java</file>
+            <file>file:/C:/Users/Jesús/Documents/NetBeansProjects/AppRutas/src/java/esp/apprutas/model/dao/implem/GuiaDaoImplem.java</file>
+        </group>
+    </open-files>
+</project-private>
